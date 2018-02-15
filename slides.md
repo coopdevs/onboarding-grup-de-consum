@@ -16,11 +16,23 @@
 
 ---
 
+### Associar membres amb el grup
+
+---
+
 ## Procés de comanda
 
 ---
 
+### Notificar al productor
+
+---
+
 ## Procés de repartiment
+
+---
+
+### Consultar comandes
 
 ---
 
