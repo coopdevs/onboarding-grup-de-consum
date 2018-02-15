@@ -69,15 +69,34 @@
 
 ---
 
-### Notificar al productor
+### Cicle de comanda
 
 ---
 
-## Procés de repartiment
+### Fer una comanda
+
+Requisits:
+
+1. Tenir un compte a Katuma
+2. Estar associat al grup de consum
+
+---
+
+### Notificar al productor
+
+FAQ: http://community.coopdevs.org/t/faq-preguntes-frequents-de-katuma/341
+
+---
+
+## Fer el repartiment
+
+Guia: http://community.coopdevs.org/t/guia-repartiment-de-comandes/280
 
 ---
 
 ### Consultar comandes
+
+Guia: http://community.coopdevs.org/t/guia-repartiment-de-comandes/280
 
 ---
 
