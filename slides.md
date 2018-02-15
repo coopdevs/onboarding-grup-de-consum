@@ -50,6 +50,11 @@
 
 ## Com crear un compte pel grup de consum
 
+1. Clicar a "¿Estás interesada en entrar en Open Food Network? Regístrate aquí"
+2. Seguir els passos
+
+Instruccions en format video: https://www.youtube.com/watch?v=ySTJ31gRzHg
+
 ---
 
 ## Com crear un compte d'usuari
@@ -78,6 +83,8 @@ Requisits:
 
 1. Tenir un compte a Katuma
 2. Estar associat al grup de consum
+
+Video d'instruccions del grup Ridorta: https://www.youtube.com/watch?v=GiB4t6KZu_Q
 
 ---
 
