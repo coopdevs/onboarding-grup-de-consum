@@ -25,7 +25,7 @@
 
 * Proporcionar nous clients a aquests productors
 
-* Reduir els costso de la distribució de productors a grups de consum
+* Reduir els costos de la distribució de productors a grups de consum
 
 * Construir la intercooperació entre el sector que permeti afrontar els reptes de futur amb més garanties d'èxit.
 
