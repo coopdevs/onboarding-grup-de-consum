@@ -43,7 +43,7 @@
 
 * Implicar la comunitat
 * Acompanyar als actors: grups, productores i usuàries
-* Enllestir MVP
+* Enllestir MVP (Producte mínim viable)
 * Projecte Empresarial
 
 ---
