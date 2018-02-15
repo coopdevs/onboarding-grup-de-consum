@@ -1,6 +1,6 @@
 # Onboarding a un grup de consum
 
-Recursos de la sessió *<!--- Nom de la xerrada -->* del <!--- Nom de l'esdeveniment, meetup, curs, etc. --> de <!--- Nom de l'organitzador --> del <!--- data -->.
+Recursos per presentar Katuma a grups de consum. Aquesta presentació està pensada per grups de consum que ens demanen explicar-los com fer servir Katuma i té una durada variable. Mentre les diapositives són força extenses i detallades, a alguns grups de consum se'ls poden estalviar alguns detalls perquè ja ens coneixen.
 
   * [Diapositives](slides.md)
   * [Diapositives en PDF]()
