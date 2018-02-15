@@ -4,7 +4,7 @@
 
 ### Visió
 
-* Té com objectiu superar els reptes que té el sector d'agricultura ecologica i de proximitat per tal de fer un salt d'escala que el permeti sobreviure als temps
+* Té com objectiu superar els reptes que té el sector d'agricultura ecològica i de proximitat per tal de fer un salt d'escala que el permeti sobreviure als temps
 
 ---
 
@@ -13,7 +13,7 @@
 * Que la gent no abandoni els grups de consum.
 
 * Permetre als grups centrar-se en ser eina de transformació fent altres
-    activitats més enllà de la gestió diaria: Cinefòrum, xerrades, fires,
+    activitats més enllà de la gestió diària: Cinefòrum, xerrades, fires,
     sensibilització, comunicació, etc.
 
 * Que més gent vulgui formar part d'un grup de consum.
@@ -35,7 +35,7 @@
 
 * Simplificar la gestió de les comandes al productor i el seu repartiment a través d'una plataforma tecnològica
 
-* Esdevenir una cooperativa de membres del sector d'agricultura ecologica i de proximitat catalana que tingui la propietat sobre aquesta plataforma i permeti afrontar els reptes com a sector.
+* Esdevenir una cooperativa de membres del sector d'agricultura ecològica i de proximitat catalana que tingui la propietat sobre aquesta plataforma i permeti afrontar els reptes com a sector.
 
 ---
 
