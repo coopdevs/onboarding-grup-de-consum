@@ -6,6 +6,8 @@ Recursos per presentar Katuma a grups de consum. Aquesta presentació està pens
   * [Diapositives en PDF]()
   <!--- Links a material extra com exercicis -->
 
+La idea és anar millorant aquest material a mesura que anem fent presentacions i anem trobant dubtes recurrents.
+
 ## Com has fet les diapositives?
 
 Amb [Deckset](https://www.decksetapp.com/). El contingut s'escriu en
