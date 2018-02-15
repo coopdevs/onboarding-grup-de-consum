@@ -4,8 +4,7 @@
 
 ### Visió
 
-* Té com objectiu superar els reptes que té el sector d'agricultura ecologica i de
-    proximitat Catalana per tal de fer un salt d'escala que el permeti sobreviure als temps
+* Té com objectiu superar els reptes que té el sector d'agricultura ecologica i de proximitat per tal de fer un salt d'escala que el permeti sobreviure als temps
 
 ---
 
