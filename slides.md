@@ -1,5 +1,7 @@
 # Katuma
 
+![](images/avatar.png)
+
 ---
 
 ### Visió
