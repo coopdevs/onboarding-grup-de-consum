@@ -1,10 +1,10 @@
 # Katuma
 
-![](images/avatar.png)
-
 ---
 
 ### Visió
+
+![right](images/avatar.png)
 
 Superar els reptes que té el sector d'agricultura ecològica i de proximitat per tal de fer un salt d'escala que el permeti sobreviure als temps
 
