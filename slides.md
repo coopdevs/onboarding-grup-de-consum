@@ -134,6 +134,8 @@ Des de la secció d'administració:
 1. Clicar a un número de comanda
 2. Clicar a "Acciones" > "Imprimir factura"
 
+---
+
 ## Preguntes?
 
 [community.coopdevs.org](community.coopdevs.org)
