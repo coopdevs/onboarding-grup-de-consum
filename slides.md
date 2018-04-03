@@ -178,4 +178,4 @@ Des de la secció de "Pedidos" de l'administració:
 
 ## Preguntes?
 
-[community.coopdevs.org](community.coopdevs.org)
+Trobareu la comunitat a [community.coopdevs.org](community.coopdevs.org)
