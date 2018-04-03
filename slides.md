@@ -12,20 +12,11 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 ### Objectius
 
-* Que la gent no abandoni els grups de consum.
+* Que la gent no abandoni els grups de consum i més s'hi sumi.
 
-* Permetre als grups centrar-se en ser eina de transformació fent altres
-    activitats més enllà de la gestió diària: Cinefòrum, xerrades, fires,
-    sensibilització, comunicació, etc.
+* Permetre als grups centrar-se en ser eina de transformació fent altres activitats més enllà de la gestió diària: Cinefòrum, xerrades, fires, sensibilització, comunicació, etc.
 
-* Que més gent vulgui formar part d'un grup de consum.
-
-* Potenciar productors petits i de proximitat que s'escapen del control de la
-    gran indústria alimentària
-
-* Permetre a aquests productors ampliar volum de negoci sense dedicar-hi més hores
-
-* Proporcionar nous clients a aquests productors
+* Potenciar productors petits i de proximitat ampliant volum de negoci sense dedicar-hi més hores
 
 * Reduir els costos de la distribució de productors a grups de consum
 
@@ -35,7 +26,7 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 ### Mitjans
 
-* Simplificar la gestió de les comandes al productor i el seu repartiment a través d'una plataforma tecnològica
+* Simplificar la gestió de les comandes a grups i productors a través d'una plataforma tecnològica
 
 * Esdevenir una cooperativa de membres del sector d'agricultura ecològica i de proximitat catalana que tingui la propietat sobre aquesta plataforma i permeti afrontar els reptes com a sector.
 
@@ -46,7 +37,7 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 * Implicar la comunitat
 * Acompanyar als actors: grups, productores i usuàries
 * Enllestir MVP (Producte mínim viable)
-* Projecte Empresarial
+* Projecte empresarial
 
 ---
 
