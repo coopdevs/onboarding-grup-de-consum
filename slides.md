@@ -40,7 +40,17 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 ---
 
-## Com crear un compte pel grup de consum
+## Primers passos
+
+---
+
+### Com crear un compte pel grup de consum
+
+![](images/register.png)
+
+---
+
+### Com crear un compte pel grup de consum
 
 1. Clicar a "¿Estás interesada en entrar en Open Food Network? Regístrate aquí"
 2. Seguir els passos
@@ -49,15 +59,25 @@ Instruccions en format video: [https://www.youtube.com/watch?v=ySTJ31gRzHg](http
 
 ---
 
-## Com crear un compte d'usuari
+### Com crear un compte d'usuari
+
+![](images/usuari.png)
+
+---
+
+### Com crear un compte d'usuari
 
 1. Clicar a "Iniciar sesión" > "Registrarse"
 
 ---
 
-## Com configurar la botiga
+## Configuració
 
-![](images/botiga.png)
+---
+
+### Associar membres amb el grup
+
+![](images/consumidores.png)
 
 ---
 
@@ -73,7 +93,13 @@ Des de la secció d'administració:
 
 ---
 
-## Procés de comanda
+## Comandes
+
+---
+
+### Cicle de comanda
+
+![](images/cicle.png)
 
 ---
 
@@ -90,12 +116,25 @@ Des de la secció d'administració:
 
 ### Fer una comanda
 
+![](images/shop.png)
+
+---
+
+### Fer una comanda
+
 Requisits:
 
 1. Tenir un compte a Katuma
 2. Estar associat al grup de consum
+3. Tenir un cicle de comanda obert
 
 Video d'instruccions del grup Ridorta: [https://www.youtube.com/watch?v=GiB4t6KZu_Q](https://www.youtube.com/watch?v=GiB4t6KZu_Q)
+
+---
+
+### Notificar al productor
+
+![](images/notificacio.png)
 
 ---
 
@@ -105,9 +144,13 @@ FAQ: [http://community.coopdevs.org/t/faq-preguntes-frequents-de-katuma/341](htt
 
 ---
 
-## Fer el repartiment
+## Repartiment
 
-Guia: [http://community.coopdevs.org/t/guia-repartiment-de-comandes/280](http://community.coopdevs.org/t/guia-repartiment-de-comandes/280)
+---
+
+### Consultar comandes
+
+![](images/informes.png)
 
 ---
 
@@ -117,9 +160,15 @@ Guia: [http://community.coopdevs.org/t/guia-repartiment-de-comandes/280](http://
 
 ---
 
-## Factures
+### Factures
 
-Des de la secció d'administració:
+![](images/factura.png)
+
+---
+
+### Factures
+
+Des de la secció de "Pedidos" de l'administració:
 
 1. Clicar a un número de comanda
 2. Clicar a "Acciones" > "Imprimir factura"
