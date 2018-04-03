@@ -2,7 +2,7 @@
 
 ---
 
-### Visió
+## Visió
 
 ![right](images/avatar.png)
 
@@ -10,7 +10,7 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 ---
 
-### Objectius
+## Objectius
 
 * Que la gent no abandoni els grups de consum i més s'hi sumi.
 
@@ -18,13 +18,12 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 * Potenciar productors petits i de proximitat ampliant volum de negoci sense dedicar-hi més hores
 
-* Reduir els costos de la distribució de productors a grups de consum
-
+* Reduir els costos de la distribució de productors a grups de consum 
 * Construir la intercooperació entre el sector que permeti afrontar els reptes de futur amb més garanties d'èxit.
 
 ---
 
-### Mitjans
+## Mitjans
 
 * Simplificar la gestió de les comandes a grups i productors a través d'una plataforma tecnològica
 
@@ -32,7 +31,7 @@ Superar els reptes que té el sector d'agricultura ecològica i de proximitat pe
 
 ---
 
-### Objectius pel 2018
+## Objectius pel 2018
 
 * Implicar la comunitat
 * Acompanyar als actors: grups, productores i usuàries
