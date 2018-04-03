@@ -108,9 +108,10 @@ Des de la secció d'administració:
 Des de la secció d'administració:
 
 1. Clicar a "Ciclos de pedidos"
-2. Escollir dates d'obertura i tancament
-3. Afegir productor i els productes que es podran comprar a "Entrante"
-4. Afegir grup de consum i els productes que repartirà a "Saliente"
+2. Clicar a "Nuevo ciclo de pedido"
+3. Escollir dates d'obertura i tancament
+4. Afegir productor i els productes que es podran comprar a "Entrante"
+5. Afegir grup de consum i els productes que repartirà a "Saliente"
 
 ---
 
